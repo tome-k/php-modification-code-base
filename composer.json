@@ -1,21 +1,9 @@
 {
-    "name": "mnabialek/laravel-modular",
     "description": "Allows creating Laravel modules for better project structure",
     "require": {
         "laravel/framework": "^5.3"
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Marcin Nabiałek",
-            "email": "developer@nabialek.org"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "Mnabialek\\LaravelModular\\": "src/"
-        }
-    },
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests"
